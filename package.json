@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PURIBANCHOn/Full-stack.git"
+    "url": "git+https://github.com/Nattakit-p/FullStack-68-2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PURIBANCHOn/Full-stack/issues"
+    "url": "https://github.com/Nattakit-p/FullStack-68-2/issues"
   },
-  "homepage": "https://github.com/PURIBANCHOn/Full-stack#readme",
+  "homepage": "https://github.com/Nattakit-p/FullStack-68-2#readme",
   "devDependencies": {
     "nodemon": "^3.1.11",
     "prettier": "^3.8.0"
