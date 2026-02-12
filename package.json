@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "full-stack",
   "version": "1.0.0",
@@ -33,3 +34,36 @@
     "sqlite3": "^5.1.7"
   }
 }
+=======
+{
+  "name": "full-stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/CRUDBookNoDB.js",
+    "format": "prettier --write *.js",
+    "dev": "nodemon src/CRUDBookNoDB.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nattakit-p/FullStack-68-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nattakit-p/FullStack-68-2/issues"
+  },
+  "homepage": "https://github.com/Nattakit-p/FullStack-68-2#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.11",
+    "prettier": "^3.8.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "sqlite3": "^5.1.7"
+  }
+}
+>>>>>>> 91c9271dc38ed85fd5295fbdff78cb4e8dfaed46
