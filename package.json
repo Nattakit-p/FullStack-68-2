@@ -10,22 +10,26 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PURIBANCHOn/Full-stack.git"
+    "url": "git+https://github.com/Nattakit-p/FullStack-68-2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PURIBANCHOn/Full-stack/issues"
+    "url": "https://github.com/Nattakit-p/FullStack-68-2/issues"
   },
-  "homepage": "https://github.com/PURIBANCHOn/Full-stack#readme",
+  "homepage": "https://github.com/Nattakit-p/FullStack-68-2#readme",
   "devDependencies": {
     "nodemon": "^3.1.11",
     "prettier": "^3.8.0"
   },
   "dependencies": {
+    "axios": "^1.13.5",
     "dotenv": "^17.2.3",
+    "ejs": "^4.0.1",
     "express": "^5.2.1",
+    "path": "^0.12.7",
+    "sequelize": "^6.37.7",
     "sqlite3": "^5.1.7"
   }
 }
